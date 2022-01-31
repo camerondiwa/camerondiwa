@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camerondiwa
 - 👀 I’m interested in higher education data science.
-- 🌱 I’m currently learning educational data mining at Teachers College, Columbia University.
+- 🌱 I’m currently learning applied data science and modern data structures at Columbia University.
 - 📫 How to reach me: cdiwa18@gmail.com
 
 <!---
